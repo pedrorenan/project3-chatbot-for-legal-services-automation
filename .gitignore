@@ -1,5 +1,5 @@
 .env
-solution/**/*.pdf
+solution/data/**/*.pdf
 **/*.csv
 **/*.json
 **/*.DS_Store
