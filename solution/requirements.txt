@@ -1,0 +1,11 @@
+fitz==0.0.1.dev2
+langchain==0.2.9
+langchain_experimental==0.0.62
+langchain_huggingface==0.0.3
+langchain_openai==0.1.17
+pandas==2.2.2
+Pillow==10.4.0
+pinecone==4.0.0
+pytesseract==0.3.10
+python-dotenv==1.0.1
+streamlit==1.36.0

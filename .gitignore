@@ -1,0 +1,6 @@
+.env
+solution/**/*.pdf
+**/*.csv
+**/*.json
+**/*.DS_Store
+**/*.docx
